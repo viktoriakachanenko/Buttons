@@ -1,0 +1,17 @@
+body {
+  padding: 30px;
+}
+
+.btn {
+  display: block;
+  background-color: #023aff;
+  border-radius: 12px;
+  width: 129px;
+  height: 40px;
+  color: white;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #503fdd;
+}
